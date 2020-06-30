@@ -1,4 +1,4 @@
-# Arduino433mHzHomeControl
+# Arduino433mHzRGBLedStrip
 
 12V RGB strip led control by 433mHz.
 
